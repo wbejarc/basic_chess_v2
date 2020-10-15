@@ -1,0 +1,9 @@
+#ifndef GLOBALDEFINES_H
+#define GLOBALDEFINES_H
+
+#define XSIZE 1200.0
+#define YSIZE 800.0
+
+#define MILISECONDS 10
+
+#endif // GLOBALDEFINES_H
